@@ -12,9 +12,6 @@ public class ResuableMethod {
         double area = radius * radius * PI; // finds the area of the circle
         double perimeter = diameter * PI;  // finds the perimeter of the circle
 
-        System.out.println("radius = " + radius);
-        System.out.println("diameter = " + diameter);
-        System.out.println("area = " + area);
         //asiya updated this line
 
 
