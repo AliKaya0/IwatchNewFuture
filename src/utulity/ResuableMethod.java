@@ -19,13 +19,6 @@ public class ResuableMethod {
 
 
 }
-/*
-3. Create a class named Circle, write a program that can calculate the area & perimeter of any given Circle
-			PI, radius, diameter, area, perimeter
-					Hints: 	PI = 3.14
-							area = radius * radius * PI
-							Perimeter = diameter * PI
- */
 
 
 
