@@ -15,7 +15,7 @@ public class ResuableMethod {
         System.out.println("radius = " + radius);
         System.out.println("diameter = " + diameter);
         System.out.println("area = " + area);
-        System.out.println("perimeter = " + perimeter);
+        //asiya updated this line
 
 
     }
